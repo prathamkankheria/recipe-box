@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Flour, Milk, Eggs, Sugar, Vanilla Extract, Blueberries
-=======
-Flour, Milk, Eggs, Sugar
->>>>>>> parent of b3be9b4 (Add vanilla extract to pancakes recipe)
